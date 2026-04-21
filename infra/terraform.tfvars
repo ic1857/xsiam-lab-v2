@@ -14,7 +14,7 @@ broker_vm_subnet = "vlan1" # allowed values vlan1, vlan2. vlan1 by default
 engine_vm        = true
 engine_vm_subnet = "vlan1" # allowed values vlan1, vlan2. vlan1 by default
 
-### Deploy VMs
+### Deploy VMss
 
 linux_deploy          = true
 windows_server_deploy = true
